@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hitung Energi Pontensial</string>
+    <string name="judul">Aplikasi Menghitung Energi Pontensial</string>
+    <string name="massa_potensial">Massa(m)</string>
+    <string name="gravitasi_potensial">Gravitasi(g)</string>
+    <string name="tinggi_potensial">Tinggi(h)</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_x">Hasil: %1$.0f</string>
+
+    <string name="massa_invalid">Panjang tidak boleh kosong.</string>
+    <string name="gravitasi_invalid">Lebar tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Sisi tidak boleh kosong.</string>
+    <string name="back">ulang</string>
+
+</resources>
