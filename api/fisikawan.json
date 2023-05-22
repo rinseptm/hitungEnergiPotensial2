@@ -1,0 +1,18 @@
+[
+    {
+        "nama": "Niels Bohr",
+        "gambar": "niels-bohr.jpg" 
+    },
+    {
+        "nama": "Ernest Rutherford",
+        "gambar": "ernest-rutherford.jpg"
+    },
+    {
+        "nama": "Max Planck",
+        "gambar": "max-planck.jpg"
+    },
+    {
+        "nama": "Joseph John Thomson",
+        "gambar": "joseph-john-thomson.jpg"
+    }
+]

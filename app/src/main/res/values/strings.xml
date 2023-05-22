@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hitung Energi Pontensial</string>
+    <string name="judul">Aplikasi Menghitung Energi Pontensial</string>
+    <string name="massa_potensial">Massa(m)</string>
+    <string name="gravitasi_potensial">Gravitasi(g) = 9,8</string>
+    <string name="tinggi_potensial">Tinggi(h)</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_x">Hasil: %1$.0f</string>
+    <string name="massa_x">Massa: </string>
+    <string name="tinggi_x">Tinggi: </string>
+    <string name="input_invalid">Input tidak boleh kosong!.</string>
+    <string name="back">ulang</string>
+    <string name="copyright">Aplikasi Hitung Energi Potensial adalah aplikasi yang menghitung besar energi potensial dengan input massa dan tinggi dari pengguna</string>
+    <string name="histori">Histori</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="hapus_histori">Hapus Histori?</string>
+    <string name="belum_ada_data">Belum Ada Data</string>
+    <string name="konfirmasi_hapus">Hapus Semua Histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+</resources>
