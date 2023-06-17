@@ -5,6 +5,10 @@
         android:title="@string/tentang_aplikasi"
         app:showAsAction="never" />
     <item
+        android:id="@+id/menu_fisikawan"
+        android:title="@string/fisikawan"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/menu_histori"
         android:icon="@drawable/ic_baseline_history_24"
         android:title="@string/histori"

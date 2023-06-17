@@ -11,7 +11,7 @@
         android:theme="@style/Theme.HitungEnergiPotensial">
 
         <activity
-            android:name="org.d3if2101.hitungenergipontensial.MainActivity"
+            android:name="org.d3if2101.hitungenergipotensial.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

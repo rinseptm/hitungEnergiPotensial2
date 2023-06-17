@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hitung Energi Pontensial</string>
+    <string name="app_name">Hitung Energi Potensial</string>
     <string name="judul">Aplikasi Menghitung Energi Pontensial</string>
     <string name="massa_potensial">Massa(m)</string>
     <string name="gravitasi_potensial">Gravitasi(g) = 9,8</string>
@@ -18,4 +18,10 @@
     <string name="konfirmasi_hapus">Hapus Semua Histori?</string>
     <string name="hapus">Hapus</string>
     <string name="batal">Batal</string>
+    <string name="notif_title">notif_title</string>
+    <string name="notif_text">notif_text</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_desc">channel_desc</string>
+    <string name="koneksi_error">koneksi_error</string>
+    <string name="fisikawan">fisikawan</string>
 </resources>
